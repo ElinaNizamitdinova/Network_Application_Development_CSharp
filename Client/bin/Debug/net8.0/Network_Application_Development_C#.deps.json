@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Network_Application_Development_C#/1.0.0": {
+        "runtime": {
+          "Network_Application_Development_C#.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Network_Application_Development_C#/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
