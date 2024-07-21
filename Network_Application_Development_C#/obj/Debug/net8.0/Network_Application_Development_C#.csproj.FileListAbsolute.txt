@@ -1,0 +1,14 @@
+E:\Элина\Network_Application_Development_C#\Network_Application_Development_C#\Network_Application_Development_C#\bin\Debug\net8.0\Network_Application_Development_C#.exe
+E:\Элина\Network_Application_Development_C#\Network_Application_Development_C#\Network_Application_Development_C#\bin\Debug\net8.0\Network_Application_Development_C#.deps.json
+E:\Элина\Network_Application_Development_C#\Network_Application_Development_C#\Network_Application_Development_C#\bin\Debug\net8.0\Network_Application_Development_C#.runtimeconfig.json
+E:\Элина\Network_Application_Development_C#\Network_Application_Development_C#\Network_Application_Development_C#\bin\Debug\net8.0\Network_Application_Development_C#.dll
+E:\Элина\Network_Application_Development_C#\Network_Application_Development_C#\Network_Application_Development_C#\bin\Debug\net8.0\Network_Application_Development_C#.pdb
+E:\Элина\Network_Application_Development_C#\Network_Application_Development_C#\Network_Application_Development_C#\obj\Debug\net8.0\Network_Application_Development_C#.GeneratedMSBuildEditorConfig.editorconfig
+E:\Элина\Network_Application_Development_C#\Network_Application_Development_C#\Network_Application_Development_C#\obj\Debug\net8.0\Network_Application_Development_C#.AssemblyInfoInputs.cache
+E:\Элина\Network_Application_Development_C#\Network_Application_Development_C#\Network_Application_Development_C#\obj\Debug\net8.0\Network_Application_Development_C#.AssemblyInfo.cs
+E:\Элина\Network_Application_Development_C#\Network_Application_Development_C#\Network_Application_Development_C#\obj\Debug\net8.0\Network_Application_Development_C#.csproj.CoreCompileInputs.cache
+E:\Элина\Network_Application_Development_C#\Network_Application_Development_C#\Network_Application_Development_C#\obj\Debug\net8.0\Network_Application_Development_C#.dll
+E:\Элина\Network_Application_Development_C#\Network_Application_Development_C#\Network_Application_Development_C#\obj\Debug\net8.0\refint\Network_Application_Development_C#.dll
+E:\Элина\Network_Application_Development_C#\Network_Application_Development_C#\Network_Application_Development_C#\obj\Debug\net8.0\Network_Application_Development_C#.pdb
+E:\Элина\Network_Application_Development_C#\Network_Application_Development_C#\Network_Application_Development_C#\obj\Debug\net8.0\Network_Application_Development_C#.genruntimeconfig.cache
+E:\Элина\Network_Application_Development_C#\Network_Application_Development_C#\Network_Application_Development_C#\obj\Debug\net8.0\ref\Network_Application_Development_C#.dll
