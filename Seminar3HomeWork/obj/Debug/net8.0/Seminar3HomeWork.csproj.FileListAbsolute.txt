@@ -1,0 +1,15 @@
+E:\Элина\Network_Application_Development_C#\Network_Application_Development_C#\Seminar3HomeWork\bin\Debug\net8.0\Seminar3HomeWork.exe
+E:\Элина\Network_Application_Development_C#\Network_Application_Development_C#\Seminar3HomeWork\bin\Debug\net8.0\Seminar3HomeWork.deps.json
+E:\Элина\Network_Application_Development_C#\Network_Application_Development_C#\Seminar3HomeWork\bin\Debug\net8.0\Seminar3HomeWork.runtimeconfig.json
+E:\Элина\Network_Application_Development_C#\Network_Application_Development_C#\Seminar3HomeWork\bin\Debug\net8.0\Seminar3HomeWork.dll
+E:\Элина\Network_Application_Development_C#\Network_Application_Development_C#\Seminar3HomeWork\bin\Debug\net8.0\Seminar3HomeWork.pdb
+E:\Элина\Network_Application_Development_C#\Network_Application_Development_C#\Seminar3HomeWork\obj\Debug\net8.0\Seminar3HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+E:\Элина\Network_Application_Development_C#\Network_Application_Development_C#\Seminar3HomeWork\obj\Debug\net8.0\Seminar3HomeWork.AssemblyInfoInputs.cache
+E:\Элина\Network_Application_Development_C#\Network_Application_Development_C#\Seminar3HomeWork\obj\Debug\net8.0\Seminar3HomeWork.AssemblyInfo.cs
+E:\Элина\Network_Application_Development_C#\Network_Application_Development_C#\Seminar3HomeWork\obj\Debug\net8.0\Seminar3HomeWork.csproj.CoreCompileInputs.cache
+E:\Элина\Network_Application_Development_C#\Network_Application_Development_C#\Seminar3HomeWork\obj\Debug\net8.0\Seminar3HomeWork.sourcelink.json
+E:\Элина\Network_Application_Development_C#\Network_Application_Development_C#\Seminar3HomeWork\obj\Debug\net8.0\Seminar3HomeWork.dll
+E:\Элина\Network_Application_Development_C#\Network_Application_Development_C#\Seminar3HomeWork\obj\Debug\net8.0\refint\Seminar3HomeWork.dll
+E:\Элина\Network_Application_Development_C#\Network_Application_Development_C#\Seminar3HomeWork\obj\Debug\net8.0\Seminar3HomeWork.pdb
+E:\Элина\Network_Application_Development_C#\Network_Application_Development_C#\Seminar3HomeWork\obj\Debug\net8.0\Seminar3HomeWork.genruntimeconfig.cache
+E:\Элина\Network_Application_Development_C#\Network_Application_Development_C#\Seminar3HomeWork\obj\Debug\net8.0\ref\Seminar3HomeWork.dll
