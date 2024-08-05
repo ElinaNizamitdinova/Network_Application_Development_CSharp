@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Network_Application_Development_C#")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6f03cebb861789c3546783951e6edc5601d4ef5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Network_Application_Development_C#")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Network_Application_Development_C#")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

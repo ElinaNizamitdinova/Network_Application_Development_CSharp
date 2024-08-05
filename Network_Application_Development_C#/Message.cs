@@ -8,8 +8,14 @@ using System.Threading.Tasks;
 
 namespace Network_Application_Development_C_
 {
+    public enum Commands
+    {
+        Register,
+        Delete
+    }
     public class Message
     {
+        public Commands command {  get; set; }
         public string Text { get; set; }
         public DateTime  DateTime { get; set; }
         public string NicknameFrom { get; set; }
@@ -18,16 +24,16 @@ namespace Network_Application_Development_C_
         {
             return JsonSerializer.Serialize(this);
         }
-        public static Message? DeserializeMessageFromJson(string json) => JsonSerializer.Deserialize<Message>(json);
+        public static Message? DeserializeMessageFromJson(string message) => JsonSerializer.Deserialize<Message>(message);
 
         public void Print()
         {
-            Console.WriteLine($"{this.DateTime} Received a message from{this.NicknameFrom}:" +
+            Console.WriteLine($"{this.DateTime} Received a message from  {this.NicknameFrom}: " +
                 $"{this.Text}");        }
 
         public override string ToString()
         {
-            return $"{this.DateTime}Received a message from{this.NicknameFrom}:" +
+            return $"{this.DateTime} Received a message from {this.NicknameFrom}:" +
                 $"{this.Text}";
         }
     }

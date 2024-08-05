@@ -12,3 +12,4 @@ E:\Элина\Network_Application_Development_C#\Network_Application_Development
 E:\Элина\Network_Application_Development_C#\Network_Application_Development_C#\Network_Application_Development_C#\obj\Debug\net8.0\Network_Application_Development_C#.pdb
 E:\Элина\Network_Application_Development_C#\Network_Application_Development_C#\Network_Application_Development_C#\obj\Debug\net8.0\Network_Application_Development_C#.genruntimeconfig.cache
 E:\Элина\Network_Application_Development_C#\Network_Application_Development_C#\Network_Application_Development_C#\obj\Debug\net8.0\ref\Network_Application_Development_C#.dll
+E:\Элина\Network_Application_Development_C#\Network_Application_Development_C#\Network_Application_Development_C#\obj\Debug\net8.0\Network_Application_Development_C#.sourcelink.json
